@@ -1,0 +1,6 @@
+torch
+fairscale
+sentencepiece
+TTS
+peft
+telebot[
