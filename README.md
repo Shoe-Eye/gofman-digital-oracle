@@ -9,7 +9,7 @@ Igor Goffman's Digitized Consciousness of Most Smarted Man in Ukraine
 
 ## Models
 
-- [https://huggingface.co/cwiz/llama-saiga-7b-gofman](LLaMa-Saiga-7b-Gofman) Siaga-7B finetuned on gofman texts
+- [LLaMa-Saiga-7b-Gofman](https://huggingface.co/cwiz/llama-saiga-7b-gofman) Siaga-7B finetuned on gofman texts
 - [igor-gofman-vits-tts ](https://huggingface.co/cwiz/igor-gofman-vits-tts) [Coqui-TTS](https://github.com/coqui-ai/TTS) VITS weights trained from igor-gofman-tts
 
 ## Scripts
