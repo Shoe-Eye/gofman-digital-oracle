@@ -3,4 +3,4 @@ fairscale
 sentencepiece
 TTS
 peft
-telebot[
+telebot
