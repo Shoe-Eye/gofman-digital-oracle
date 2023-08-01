@@ -20,3 +20,10 @@ LLM funetuning performed with [text-generation-webui](https://github.com/oobaboo
 
 - [generate.py](generate.py) - huggingface example of LLaMa-Saiga-7b-Gofman invocation
 - [bot.py](bot.py) - run generate.py model as telegram bot
+
+## Useful Resources
+
+* [so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) voice-to-voice model (transfers the style for vocals/speech)
+* [Coqui TTS VITS](https://github.com/coqui-ai/TTS/tree/dev/recipes/thorsten_DE/vits_tts) voice-to-text model (excels at intonation but struggles with longer sentences and unseen words)
+* [bark](https://github.com/suno-ai/bark) SOTA text-2-voice model for voice-2-voice
+* [Saiga](https://huggingface.co/IlyaGusev/saiga_7b_lora) LLaMa finetuned for Russian text
